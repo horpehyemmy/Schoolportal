@@ -1,0 +1,120 @@
+body{
+		background-color:#00b33c;
+		 
+	}
+	tr,th,td{
+		border:1px solid #ffa64d;
+		padding:right; 
+
+	}
+	
+	th{
+		text-align: center;
+		background-color: #99ff99;
+	}
+	h4{
+		text-align: left;
+	}
+	table{
+		border:1px solid  #ffa64d;
+		background-color:#99ff99 ;
+		}
+		.header img{
+			float:left;
+			width:100px;
+			height:100px;
+			background-color: #99ff99;
+
+		}
+		.header h1{
+			padding-right: 65%;
+			text-align: center;
+			
+			top:18px;
+			left:10px;
+			height:100px;
+
+		}
+		.header p{
+			float:right;
+			
+		}
+		.header{
+			background-color: #99ff99;
+
+		}
+		.button{
+			background-color:#ffa64d; 			
+			text-decoration:underline;
+			border:1px solid;
+			color:white;
+			padding:15px 32px;
+			text-align: center;
+			display:inline-block;
+			font-size: 16px;
+			border-radius: 8px;
+			
+		}
+		.button:hover{
+			box-shadow: gray;
+		}
+
+		a:link{
+			color:hotpink;
+			text-align: center;
+		}
+		a:visited{
+			color:#330033;
+			text-decoration: underline;
+		}
+		a:hover{
+			color:#800080;
+
+		}
+		#contact{
+			color: black;
+			height:30px;
+
+			}
+		select{
+			border:none;
+			border-radius: 4px;
+			font-size: 15px;
+			background-color: #ffffb3;
+		}
+		#add{
+			color:yellow;
+			background-color: #00b33c;
+		}
+		#delete{
+			color:green;
+			background-color:  #00b33c;
+		}
+		#edit{
+			color:green;
+			background-color: #00b33c;
+		}
+		#foot{
+			background-color: #99ff99;
+
+		}
+
+   
+		.
+		foot{
+			background-color:#ffa64d; 			
+			text-decoration:underline;
+			border:1px solid;
+			color:white;
+			padding:15px 32px;
+			text-align: center;
+			display:inline-block;
+			font-size: 16px;
+			border-radius: 8px;
+			
+		}
+
+
+
+
+

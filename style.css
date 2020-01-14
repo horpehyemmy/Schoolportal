@@ -1,0 +1,120 @@
+body{
+	background-color: snow;
+	padding: 0px;	
+	margin: 0px;
+	overflow-x:hidden;
+	}
+	header{
+	padding: 10px 20px;
+	display: block;
+	background-color: #009933;
+	min-height:100px;
+	width:100%;
+	position: relative;
+	overflow: auto;
+	overflow: hidden;
+	}
+	
+	header h1{
+		margin: 0px;
+	}
+	header p{
+		position: absolute;
+		right: 50px;
+		bottom: 20px;
+		color: #fff;
+	}
+	header h2{
+		position:absolute;
+		right:50px;
+		bottom:0px;
+		font-size:20px;
+
+	}
+	header h2 a{
+		text-decoration: none;
+	}
+	header img{
+			float:left;
+			width:100px;
+			height:auto;
+			margin:10px;
+		}
+	header h3{
+    font-weight: bolder;
+    font-size: 25px;
+    margin:0px;
+	}
+	
+	aside{
+		display:block;
+		 position:relative;
+		 float: left;	
+		 height: 100%;
+		 background-color:#009933;
+		 width: 10%;
+		 padding: 10px 20px;
+}
+aside ul{
+	list-style-type: none;
+	margin:0px;
+	padding: 0px;	
+  
+}
+aside ul li{
+	/*border-bottom:1px solid black;*/
+	text-align: right;
+	line-height: 40px;
+	padding:8px 16px;
+
+}
+aside ul li:last-child{
+	border-bottom: none;
+}
+
+aside ul li a{
+	color:#fff;
+	text-decoration: none;
+  display:inline-block;	
+}
+aside li:hover{
+	background-color: #555;
+	color:white;
+	}
+ 
+.container {
+	display: block;
+	position: relative;
+	overflow: auto;
+	overflow: hidden;
+}
+
+section {
+	float:left; 
+	display: block;
+	width: 70%;
+}
+
+section .button{
+	margin-left:45%;
+	margin-top: 5%;
+
+}
+#example{
+	margin-left: 50px;
+}
+
+footer{
+	background-color: #009933;
+	height:35px;
+	width:100%;
+	padding: 20px 0px;
+	line-height: 20px;
+	vertical-align: middle;
+	text-align: center;
+	position:relative;
+	
+}
+
+
+
